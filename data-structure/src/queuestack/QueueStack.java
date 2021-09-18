@@ -1,5 +1,7 @@
 package queuestack;
 
+import stack.Stack;
+
 public class QueueStack {
 	
 	private Stack enqueue_stack = null;
